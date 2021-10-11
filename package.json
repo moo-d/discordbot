@@ -1,0 +1,22 @@
+{
+  "name": "my_package",
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monatheoctocat/my_package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/moo-d/discordbot/issues"
+  },
+  "homepage": "https://github.com/moo-d/discordbot"
+}
