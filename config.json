@@ -1,6 +1,6 @@
 {
   "prefix": "s!",
-  "token" "your_discord_bot_token",
+  "token": "your_discord_bot_token",
   "owner": "YOUR_USER-ID",
   "creator": "YOUR_DISCORD-TAG (Ex: Faris0520#9850)",
   "clientid": "YOUR_BOT-CLIENT-ID"
