@@ -1,4 +1,4 @@
-const config = require('../token.json');
+const config = require('../config.json');
 const Discord = require('discord.js');
 var aq = require('animequote');
 const Kitsu = require('kitsu.js');
